@@ -1,2 +1,4 @@
 # vscode-template
-Template java prog. for vscode editor
+Template java program for vscode editor.
+
+Belajar GitHub.
